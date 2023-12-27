@@ -33,5 +33,5 @@ console.log("Gender :" , gender);
 var marritialStatus="Yes";
 console.log("Is Married :", marritialStatus);
 
-
+console.log(typeof pincode);
 

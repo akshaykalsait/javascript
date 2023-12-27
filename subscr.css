@@ -1,0 +1,83 @@
+#box{
+    width: auto;
+    /* border: 1px solid black; */
+    border-radius: 8px;
+    background-color: rgb(8, 62, 83);
+    margin: 10px;
+    
+}
+h2{
+    margin: 10px;
+}
+#box p{
+    color: white;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+/* div{
+    border: 1px solid black;
+    width: auto;
+    display: inline-block;    
+} */
+form{
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    
+}
+body{
+    background-color: white;
+}
+#input label{
+    display: inline-block;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
+#input input{
+    margin-left: 10px;
+    width: 345px;
+    border-radius: 3px;
+    background-color: rgb(221, 223, 224);
+    padding: 5px;
+}
+span{
+    color: red;
+}
+textarea{
+    margin-left: 10px;
+    width: 350px;
+    border-radius: 3px;
+    background-color: rgb(221, 223, 224);
+}
+#main{
+    width: auto;
+    height: auto;
+    margin: 15px;
+
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* #allContent{
+    margin-right: 150px;
+} */
+#btn button{
+    background-color: whitesmoke;
+
+margin-left: 275px;
+border-radius: 3px;
+
+
+}
+hr{
+    color: rgb(247, 245, 243);
+}
+
+
+    
+
