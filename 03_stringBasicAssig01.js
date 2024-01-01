@@ -4,6 +4,8 @@ function stringBasics() {
  var dreamComp = ` "My Dream Company is: Accenture" `;
  console.log(dreamComp);  
  console.log("============================================================");
+
+ 
  
  var hobby1 = "Cricket";
  var hobby2 = "singing";
