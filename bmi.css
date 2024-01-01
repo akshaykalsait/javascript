@@ -1,0 +1,105 @@
+
+
+
+form{
+    width: 400px;
+    height: 450px;
+    background-color: aqua;
+    margin-left: 30%;
+}
+#bmi{
+    background-color: white;
+    width: 320px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 20px;
+    font-size: x-large;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+#box{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    
+}
+#values label{
+    
+    padding: 10px;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+#values{
+    height: 70px;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    
+}
+#values input{
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 0px;
+    
+}
+
+
+  
+
+
+h2{
+    /* margin: 20px; */
+    /* padding: 20px; */
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    
+}
+
+#values2{
+    height: 70px;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 70px;
+    
+}
+#values2 label{
+    
+    padding: 10px;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#values2 input{
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 0px;
+    
+}
+#calculate{
+    padding: 5px;
+    width: 250px;
+    margin: 15px;
+    margin-left: 20px;
+    background-color: rgb(15, 91, 134);
+    color: white;
+}
+
+#reset{
+    padding: 5px;
+    width: 250px;
+    /* margin: 15px; */
+    margin-left: 20px;
+    background-color: rgb(180, 33, 33);
+    color: white;
+}
