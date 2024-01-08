@@ -1,5 +1,5 @@
 
-console.log(`###================================Array Assignment================================###`);
+console.log(`================================Array Assignment================================`);
 
 const fruits_seasonal = [`"Banana"` , `"Orange"` , `"Apple"` , `"Mango"` , `"Water Melon"`];
 console.log(`Given Array is : ${fruits_seasonal}`);
